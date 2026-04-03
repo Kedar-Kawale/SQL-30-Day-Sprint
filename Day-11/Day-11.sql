@@ -30,4 +30,5 @@ HAVING AVG(Salary) > 1000;
 		When you have to use both then always use 'Where' first then followed 'having']
 */
 
+
 --=========================================End=========================================
