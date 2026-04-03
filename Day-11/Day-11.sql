@@ -26,7 +26,8 @@ HAVING AVG(Salary) > 1000;
 
 /*
 [Notes: Whenever you have to apply filter on aggregate value then use "HAVING"
-		Whenever you have to apply filter on individual rows then use "WHERE"]
+		Whenever you have to apply filter on individual rows then use "WHERE"
+		When you have to use both then always use 'Where' first then followed 'having']
 */
 
 --=========================================End=========================================
